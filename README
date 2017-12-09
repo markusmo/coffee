@@ -1,0 +1,2 @@
+coffee.sql creates a database according to the use case
+query.sql runs a query returning a sorted output, according to the states
